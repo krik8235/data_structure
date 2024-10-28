@@ -2,7 +2,7 @@ import sys
 sys.path.insert(0,"..")
 
 
-from node import Node
+from python_classes.node import Node
 
 
 class LinkedList:

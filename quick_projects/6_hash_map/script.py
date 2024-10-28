@@ -1,5 +1,5 @@
-from linked_list import LinkedList
-from node import Node
+from python_classes.linked_list import LinkedList
+from python_classes.node import Node
 
 
 class HashMap:
