@@ -1,6 +1,6 @@
 # Learn Data Structures and Algorithms with Python
 
-This repository summarize overview of data structure and algorithms based on the Codecademy course "Learn Data Structures and Algorithms with Python".
+This repository summarizes the overview of data structure and algorithms based on the Codecademy course "Learn Data Structures and Algorithms with Python".
 
 ## Covered Topics
 
@@ -20,7 +20,7 @@ This repository summarize overview of data structure and algorithms based on the
 * Heaps and Heapsort
 * Graphs and Graph Search
 * Greedy Algorithms
-* Pathfinding Algorithms   
+* Pathfinding Algorithms
 
 
 ## Additional Resources
