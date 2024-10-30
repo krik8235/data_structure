@@ -26,6 +26,7 @@ This repository summarize overview of data structure and algorithms based on the
 ## Additional Resources
 
 * [Jupiter notebook](https://github.com/krik8235/data_structure/tree/main/jupyter_notebook)
+* [Mini-projects](https://github.com/krik8235/data_structure/tree/main/quick_projects)
 
 
 
@@ -33,8 +34,8 @@ This repository summarize overview of data structure and algorithms based on the
 
 * **Certificate:** https://www.codecademy.com/profiles/KurikoIWAI/certificates/7a1021b263de1990c643feb15d9f1f7a
 * (Credential ID A103C26E-2)
-* **Projects Completed:** 6 projects completed
-* **Lessons Completed:** 37 / 37 lessens completed
+* **Projects Included:** 6 projects completed
+* **Lessons Included:** 37 / 37 lessens completed
 * **Skill Level:** Intermediate
 
 
