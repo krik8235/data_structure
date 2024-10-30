@@ -38,5 +38,3 @@ This repository summarize overview of data structure and algorithms based on the
 * **Lessons Included:** 37 / 37 lessens completed
 * **Skill Level:** Intermediate
 
-
-**Feel free to explore my code and ask any questions!**
