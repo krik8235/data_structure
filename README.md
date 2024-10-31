@@ -30,11 +30,9 @@ This repository summarizes the overview of data structure and algorithms based o
 
 
 
-#### Course Overview
-
-* **Certificate:** https://www.codecademy.com/profiles/KurikoIWAI/certificates/7a1021b263de1990c643feb15d9f1f7a
-* (Credential ID A103C26E-2)
+##### Course Overview
 * **Projects Included:** 6 projects completed
 * **Lessons Included:** 37 / 37 lessens completed
 * **Skill Level:** Intermediate
 
+[Certification (A103C26E-2)](https://kuriko.vercel.app/certifications/certificate_python_data_str_algo.pdf)
